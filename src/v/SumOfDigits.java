@@ -1,4 +1,4 @@
-package Vishal;
+package v;
 
 import java.util.Scanner;
 
