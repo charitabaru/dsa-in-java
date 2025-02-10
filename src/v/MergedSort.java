@@ -5,7 +5,7 @@ import java.util.Arrays;
 public class MergedSort {
     public static void main(String[] args) {
         int[] num1 = {1,2};
-        int[] num2 = {3,4};
+        int[] num2 = {6,4};
 
             int n1Size = num1.length;
             int n2Size = num2.length;
