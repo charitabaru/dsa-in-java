@@ -10,7 +10,8 @@ public class intro {
         // create object
         // Student s1 = new Student();
 
-       /* s1.rno = 28;
+       /*
+       s1.rno = 28;
         s1.name = "charita";
         s1.marks = 98.7f; */
 
